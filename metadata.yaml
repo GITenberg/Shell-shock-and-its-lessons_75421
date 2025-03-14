@@ -1,0 +1,46 @@
+_repo: Shell-shock-and-its-lessons_75421
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Smith, Grafton Elliot
+    alias: Smith, G. Elliot (Grafton Elliot), Sir
+    birthdate: 1871
+    deathdate: 1937
+    gutenberg_agent_id: '25053'
+    url: http://www.gutenberg.org/2009/agents/25053
+    wikipedia: https://en.wikipedia.org/wiki/Grafton_Elliot_Smith
+  - agent_name: Pear, T. H. (Tom Hatherley)
+    alias: Pear, Tom Hatherley
+    birthdate: 1886
+    deathdate: 1972
+    gutenberg_agent_id: '57991'
+    url: http://www.gutenberg.org/2009/agents/57991
+    wikipedia: https://en.wikipedia.org/wiki/Tom_Hatherley_Pear
+description: ''
+gutenberg_issued: '2025-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75421'
+  lccn: '17025982'
+language: en
+pgterms:marc904: https://archive.org/details/39002022350152.med.yale.edu/page/n5/mode/2up
+pgterms:marc905: 20241122084347smith
+pgterms:marc906: '1917'
+pgterms:marc907: GB
+production_note: Bob Taylor, Tim Miller and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aManchester & London :$bManchester at the University Press &
+  Longmans, Green, & Co., $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Health aspects'
+- !lcsh 'War neuroses'
+- !lcsh 'Traumatic neuroses'
+- !lcsh 'World War, 1914-1918 -- Veterans -- Mental health'
+- !lcc 'RC'
+- GITenberg
+title: Shell shock and its lessons
+url: http://www.gutenberg.org/ebooks/75421
