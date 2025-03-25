@@ -1,5 +1,8 @@
 _repo: Shell-shock-and-its-lessons_75421
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75421-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Smith, Grafton Elliot
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57991
     wikipedia: https://en.wikipedia.org/wiki/Tom_Hatherley_Pear
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75421#Shell-shock-and-its-lessons
 gutenberg_issued: '2025-02-19'
 gutenberg_type: Text
 identifiers:
